@@ -1,5 +1,5 @@
 # Shell Programming Mini Project
-
+![I1](result.jpg)
 ## Mini Project 1: Text to Pattern Converter
 
 ### Aim:
